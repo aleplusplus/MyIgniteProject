@@ -8,6 +8,7 @@ import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
 import com.microsoft.appcenter.reactnative.crashes.AppCenterReactNativeCrashesPackage;
 import com.microsoft.appcenter.reactnative.analytics.AppCenterReactNativeAnalyticsPackage;
 import com.microsoft.appcenter.reactnative.appcenter.AppCenterReactNativePackage;
+import com.microsoft.appcenter.push.Push;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.learnium.RNDeviceInfo.RNDeviceInfo;
 import com.facebook.react.ReactNativeHost;
@@ -54,6 +55,7 @@ public class MainApplication extends Application implements ReactApplication {
   @Override
   public void onCreate() {
     super.onCreate();
+    Push.setSenderId("374715846795");
     SoLoader.init(this, /* native exopackage */ false);
   }
 }
