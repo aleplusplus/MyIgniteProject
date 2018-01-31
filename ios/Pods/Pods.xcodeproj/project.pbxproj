@@ -19,10 +19,9 @@
 
 /* Begin PBXFileReference section */
 		1849E11A60AA30B543F1AA2942B12144 /* libPods-MyIgniteProject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MyIgniteProject.a"; path = "libPods-MyIgniteProject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FF8CBE3D70C3B5EE02BF7F1402952A2 /* AppCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterCrashes.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework"; sourceTree = "<group>"; };
+		28B984AF8E1E23B3F2BEFBBE6B51887F /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
 		2A66498E08CE2158E72AFFCA30D93F59 /* Pods-MyIgniteProject-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProject-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2D154F4805B9715F0E6D79B0363CE280 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		2E280B58529AEBA76B5F11C0705D0856 /* AppCenterReactNativeShared.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterReactNativeShared.framework; path = AppCenterReactNativeShared/AppCenterReactNativeShared.framework; sourceTree = "<group>"; };
 		415C5D9C306490848EF13C043F2AE92E /* Pods-MyIgniteProject-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyIgniteProject-tvOS-dummy.m"; sourceTree = "<group>"; };
 		4887789FDFD19CB9022EFDFB78782C5A /* Pods-MyIgniteProject-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProject-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		4A302A2924483A16347533C4C69FFB85 /* Pods-MyIgniteProject-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProject-resources.sh"; sourceTree = "<group>"; };
@@ -31,10 +30,11 @@
 		572DBE63D5360AB71E5F80F979738FD0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS10.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		594D1F16E666B3392795ADADC2477C05 /* Pods-MyIgniteProjectTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProjectTests-resources.sh"; sourceTree = "<group>"; };
 		5EEFCBE42BE8BA5EFF584A8983E85024 /* libPods-MyIgniteProject-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MyIgniteProject-tvOS.a"; path = "libPods-MyIgniteProject-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6357DA0B19F11F13970F405405A8BB5F /* AppCenterReactNativeShared.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterReactNativeShared.framework; path = AppCenterReactNativeShared/AppCenterReactNativeShared.framework; sourceTree = "<group>"; };
 		6392CF07A52ADC7B44751348793F42E0 /* Pods-MyIgniteProject-tvOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyIgniteProject-tvOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
 		70EB0A24D0EDD0BC049D169AD966ADD8 /* Pods-MyIgniteProject-tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProject-tvOS-resources.sh"; sourceTree = "<group>"; };
 		7241D62706AAC5ABBD913B330E5E2E5C /* Pods-MyIgniteProjectTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyIgniteProjectTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		78F8D2756754958D9628B306E4CFFB41 /* AppCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterCrashes.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework"; sourceTree = "<group>"; };
 		7F967F10D724E6DED9E9827A2CAD6606 /* Pods-MyIgniteProjectTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyIgniteProjectTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		90C4522F51E756A6B2B9B44CA1696BEA /* Pods-MyIgniteProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -47,13 +47,14 @@
 		BAE1EE985143716E538B768B46EA429C /* libPods-MyIgniteProject-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MyIgniteProject-tvOSTests.a"; path = "libPods-MyIgniteProject-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1F581148E22D833156A4AE5FA5C1FC3 /* Pods-MyIgniteProject-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProject-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		D7213E37E2D4B8F328009039DEB78475 /* Pods-MyIgniteProject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyIgniteProject-dummy.m"; sourceTree = "<group>"; };
-		DC65AFFB7964130E42157D207BE3A6DE /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
 		DCF7330B1F3BB039ACFFC1049DD0C3C4 /* Pods-MyIgniteProject-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProject-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
 		E0C0648CF8733198B7D15B58F1184BA4 /* Pods-MyIgniteProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProject.release.xcconfig"; sourceTree = "<group>"; };
+		E1A0B4F50EB4E4EF749670AE4D4844EA /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
 		E36055F7DF446D34EDED53E549BD4C6C /* Pods-MyIgniteProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyIgniteProject-acknowledgements.plist"; sourceTree = "<group>"; };
 		E3DC2E18686694F25A173E24EB4BC36F /* Pods-MyIgniteProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyIgniteProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		E7EEC1B998002E8B624AB14A815B97DB /* Pods-MyIgniteProject-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyIgniteProject-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		E80617446543BD80176C6176CC6E150D /* Pods-MyIgniteProject-tvOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyIgniteProject-tvOSTests-dummy.m"; sourceTree = "<group>"; };
+		EA05D3205DA241E5F02C826809EDC0E0 /* AppCenterPush.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterPush.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterPush.framework"; sourceTree = "<group>"; };
 		F4AF37D04A3868E7A2EF9773AEC61044 /* Pods-MyIgniteProject-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProject-tvOS-frameworks.sh"; sourceTree = "<group>"; };
 		F56ED302E2BFB1B7F78F27285217B748 /* Pods-MyIgniteProject-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyIgniteProject-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		FF74A5E750F948BE2EE4F3474D787EC0 /* Pods-MyIgniteProject-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyIgniteProject-tvOSTests-resources.sh"; sourceTree = "<group>"; };
@@ -110,12 +111,13 @@
 			path = "Target Support Files/Pods-MyIgniteProject-tvOS";
 			sourceTree = "<group>";
 		};
-		0C0416FA3744ECAB6C76E95960896084 /* Frameworks */ = {
+		1CEC81492C87AE86F3B5DA3898FA4064 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				DC65AFFB7964130E42157D207BE3A6DE /* AppCenter.framework */,
+				3F43F514DA7EAA0C7B1DDA4EA2318F18 /* AppCenter */,
+				B3B37DB3C2AB3F4C1C7075DD994C95F5 /* AppCenterReactNativeShared */,
 			);
-			name = Frameworks;
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		20F731AE46C73F232AF0C168DC383CF9 /* tvOS */ = {
@@ -126,20 +128,12 @@
 			name = tvOS;
 			sourceTree = "<group>";
 		};
-		2299AF501E253B95F2AE1FAD00A3B182 /* Crashes */ = {
+		2873DC716EFD401E9AA75751A9030597 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4789B2888C9F3A64D9BB98A64504484B /* Frameworks */,
+				28B984AF8E1E23B3F2BEFBBE6B51887F /* AppCenterAnalytics.framework */,
 			);
-			name = Crashes;
-			sourceTree = "<group>";
-		};
-		260E672E181DB8BDAC7A2999772A7AE4 /* Analytics */ = {
-			isa = PBXGroup;
-			children = (
-				8E2C96EA6162ABA11EBE8E8817909062 /* Frameworks */,
-			);
-			name = Analytics;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		2954A7F0DE4BCE6C67E759212E37F8DF /* Targets Support Files */ = {
@@ -151,14 +145,6 @@
 				637749FB1FA2A01896E7A5EC75049536 /* Pods-MyIgniteProjectTests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		2D20FC01AE47C04E62202F456C8DC21D /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				0C0416FA3744ECAB6C76E95960896084 /* Frameworks */,
-			);
-			name = Core;
 			sourceTree = "<group>";
 		};
 		2D3702E9A339BDA3B0D35048D21145A5 /* Pods-MyIgniteProject */ = {
@@ -187,12 +173,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4789B2888C9F3A64D9BB98A64504484B /* Frameworks */ = {
+		3F43F514DA7EAA0C7B1DDA4EA2318F18 /* AppCenter */ = {
 			isa = PBXGroup;
 			children = (
-				1FF8CBE3D70C3B5EE02BF7F1402952A2 /* AppCenterCrashes.framework */,
+				9C020A2A5E06D8F470DD148664CC6876 /* Analytics */,
+				474AC2EAB054918F21B6B70B3FD98E7D /* Core */,
+				7335AEC09AABC1369D3DE8B273D7FEAA /* Crashes */,
+				E3CB28B022B6D8808384250825E7C3F9 /* Push */,
 			);
-			name = Frameworks;
+			name = AppCenter;
+			path = AppCenter;
+			sourceTree = "<group>";
+		};
+		474AC2EAB054918F21B6B70B3FD98E7D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				8A2CDFBDDBA8FED75AA43254B3D5072E /* Frameworks */,
+			);
+			name = Core;
 			sourceTree = "<group>";
 		};
 		58996781A54EE964D7111D73083A18A5 /* iOS */ = {
@@ -218,23 +216,39 @@
 			path = "Target Support Files/Pods-MyIgniteProjectTests";
 			sourceTree = "<group>";
 		};
+		7335AEC09AABC1369D3DE8B273D7FEAA /* Crashes */ = {
+			isa = PBXGroup;
+			children = (
+				D87E7075F6BF3A23A60DAB5A2A93FFDF /* Frameworks */,
+			);
+			name = Crashes;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				A42F72DC1D780481325DD00969B19BB6 /* Frameworks */,
-				B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */,
+				1CEC81492C87AE86F3B5DA3898FA4064 /* Pods */,
 				382FB82F87D615862C40B608EAD1C03C /* Products */,
 				2954A7F0DE4BCE6C67E759212E37F8DF /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		8E2C96EA6162ABA11EBE8E8817909062 /* Frameworks */ = {
+		8A2CDFBDDBA8FED75AA43254B3D5072E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */,
+				E1A0B4F50EB4E4EF749670AE4D4844EA /* AppCenter.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9C020A2A5E06D8F470DD148664CC6876 /* Analytics */ = {
+			isa = PBXGroup;
+			children = (
+				2873DC716EFD401E9AA75751A9030597 /* Frameworks */,
+			);
+			name = Analytics;
 			sourceTree = "<group>";
 		};
 		A42F72DC1D780481325DD00969B19BB6 /* Frameworks */ = {
@@ -261,41 +275,45 @@
 			path = "Target Support Files/Pods-MyIgniteProject-tvOSTests";
 			sourceTree = "<group>";
 		};
-		B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */ = {
+		B3B37DB3C2AB3F4C1C7075DD994C95F5 /* AppCenterReactNativeShared */ = {
 			isa = PBXGroup;
 			children = (
-				D6F4E16E170AFF42D929EF8FFF92078F /* AppCenter */,
-				FDE42022E7C36FE2A980950DD051F732 /* AppCenterReactNativeShared */,
+				C0409D3F50AA40A51EE0FF9BD95D9139 /* Frameworks */,
 			);
-			name = Pods;
+			name = AppCenterReactNativeShared;
+			path = AppCenterReactNativeShared;
 			sourceTree = "<group>";
 		};
-		D6F4E16E170AFF42D929EF8FFF92078F /* AppCenter */ = {
+		C0409D3F50AA40A51EE0FF9BD95D9139 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				260E672E181DB8BDAC7A2999772A7AE4 /* Analytics */,
-				2D20FC01AE47C04E62202F456C8DC21D /* Core */,
-				2299AF501E253B95F2AE1FAD00A3B182 /* Crashes */,
-			);
-			name = AppCenter;
-			path = AppCenter;
-			sourceTree = "<group>";
-		};
-		F84ACEF4E4D3666C3A595115D01D3868 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				2E280B58529AEBA76B5F11C0705D0856 /* AppCenterReactNativeShared.framework */,
+				6357DA0B19F11F13970F405405A8BB5F /* AppCenterReactNativeShared.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		FDE42022E7C36FE2A980950DD051F732 /* AppCenterReactNativeShared */ = {
+		D6FFA9EF6598188A2EB042646962F9A5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F84ACEF4E4D3666C3A595115D01D3868 /* Frameworks */,
+				EA05D3205DA241E5F02C826809EDC0E0 /* AppCenterPush.framework */,
 			);
-			name = AppCenterReactNativeShared;
-			path = AppCenterReactNativeShared;
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D87E7075F6BF3A23A60DAB5A2A93FFDF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				78F8D2756754958D9628B306E4CFFB41 /* AppCenterCrashes.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E3CB28B022B6D8808384250825E7C3F9 /* Push */ = {
+			isa = PBXGroup;
+			children = (
+				D6FFA9EF6598188A2EB042646962F9A5 /* Frameworks */,
+			);
+			name = Push;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
